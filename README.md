@@ -113,6 +113,16 @@ Forge/Fabric/NeoForge, каждая сборка в отдельной папк�
 
 ---
 
+## Город из моих коммитов
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NAME-studio/NAME-studio/output-3d/profile-night-rainbow.svg" alt="3D-график контрибуций" width="90%" />
+
+</div>
+
+---
+
 <div align="center">
 
 **Нужен сайт или есть идея по лаунчеру — пишите в [Discord](https://discord.gg/VCemrH6M44) или в [Issues](https://github.com/NAME-studio/kubik-launcher/issues).**
